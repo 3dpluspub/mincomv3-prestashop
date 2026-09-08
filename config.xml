@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>mincomv3</name>
+    <displayName><![CDATA[MinComV3 - Frais et Minimum par Ville]]></displayName>
+    <version><![CDATA[3.2.0]]></version>
+    <description><![CDATA[Gestion des frais de port et minimum de commande par ville et code postal.]]></description>
+    <author><![CDATA[3dplus web agency]]></author>
+    <tab><![CDATA[shipping_logistics]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+    <limited_countries></limited_countries>
+</module>
